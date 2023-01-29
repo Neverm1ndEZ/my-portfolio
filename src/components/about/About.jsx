@@ -27,12 +27,16 @@ const About = () => {
             <article className='about__card'>
               <MdFolder className='about__icons' />
               <h5>Projects</h5>
-              <small>5+ Completed</small>
+              <small>8+ Completed and Counting</small>
             </article>
           </div>
 
           <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloribus soluta voluptate sint, commodi impedit nobis accusamus facilis dolor deleniti? Corrupti beatae qui voluptas delectus vel.
+            <h3>"Nothing is as Permanent as a Temporary Solution that works !"</h3>
+
+            Hi, I'm Mihir! Currently a Second Year B.Tech Student, Enthusiastic about Web and Android Development, Programming, Coffee and Sleeping - that I have currently been losing over Android Development Projects and Flutter. Apart from this, I spend my days doing Open Source Contributions, Reading Documentation, Making Coffee, Gaming.
+            <br /> <br />
+            Let's Talk if you are Interested in Android or Web Development Prokects or simply, CSGO. Don't be afraid to commit, whether it is GitHub or Real Life :)
           </p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
