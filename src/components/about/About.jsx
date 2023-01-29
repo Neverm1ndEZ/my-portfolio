@@ -36,7 +36,7 @@ const About = () => {
 
             Hi, I'm Mihir! Currently a Second Year B.Tech Student, Enthusiastic about Web and Android Development, Programming, Coffee and Sleeping - that I have currently been losing over Android Development Projects and Flutter. Apart from this, I spend my days doing Open Source Contributions, Reading Documentation, Making Coffee, Gaming.
             <br /> <br />
-            Let's Talk if you are Interested in Android or Web Development Prokects or simply, CSGO. Don't be afraid to commit, whether it is GitHub or Real Life :)
+            Let's Talk if you are Interested in Android or Web Development Projects or simply, CSGO. Don't be afraid to commit, whether it is GitHub or Real Life :)
           </p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
