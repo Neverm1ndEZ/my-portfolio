@@ -27,7 +27,7 @@ const About = () => {
 						<article className="about__card">
 							<MdFolder className="about__icons" />
 							<h5>Projects</h5>
-							<small>8+ Completed and Counting</small>
+							<small>12+ Completed and Counting</small>
 						</article>
 					</div>
 
@@ -35,7 +35,7 @@ const About = () => {
 						<h3>
 							"Nothing is as Permanent as a Temporary Solution that works !"
 						</h3>
-						Hi, I'm Mihir! Currently a Second Year B.Tech Student, Enthusiastic
+						Hi, I'm Mihir! Currently a Third Year B.Tech Student, Enthusiastic
 						about Web and Android Development, Programming, Coffee and Sleeping
 						- that I have currently been losing over some ongoing projects of
 						React, Express and Android. Apart from this, I spend my days trying

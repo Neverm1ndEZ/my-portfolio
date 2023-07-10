@@ -3,6 +3,7 @@ import "./Nav.css";
 import { AiOutlineHome, AiOutlineUser } from "react-icons/ai";
 import { SiKnowledgebase } from "react-icons/si";
 import { BiMessageRoundedDetail } from "react-icons/bi";
+import { BsPersonWorkspace } from "react-icons/bs";
 import { useState } from "react";
 
 const Nav = () => {
@@ -30,6 +31,13 @@ const Nav = () => {
 				className={activeNav === "#experiences" ? "active" : ""}
 			>
 				<SiKnowledgebase />
+			</a>
+			<a
+				href="#portfolio"
+				onClick={() => setActiveNav("#portfolio")}
+				className={activeNav === "#portfolio" ? "active" : ""}
+			>
+				<BsPersonWorkspace />
 			</a>
 			<a
 				href="#contact"
